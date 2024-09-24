@@ -1,3 +1,5 @@
+scan
 node_modules
 dist
 coverage
+test
